@@ -8,7 +8,7 @@
 /* RT_ALIGN_SIZE*/
 #define RT_ALIGN_SIZE	4
 
-/* PRIORITY_MAX */
+/* PRIORITY_MAX The Num is bigger the priority is lower*/
 #define RT_THREAD_PRIORITY_MAX	32
 
 /* Tick per Second */
